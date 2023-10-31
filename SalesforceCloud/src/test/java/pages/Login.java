@@ -28,14 +28,14 @@ public class Login extends ProjectSpecificMethod{
 		return this;
 	}
 	
-	public Login clickLogin() throws IOException {
+	public WelcomePage clickLogin() throws IOException {
 		try {
 			getDriver().findElement(By.id("Login")).click();
 			reportStep("Click on the Login button", "pass");
 		} catch (Exception e) {
 			reportStep(e+" Failed to click the login button", "fail");
 		}
-		return this;
+		return new WelcomePage();
 	}
 	
 	
