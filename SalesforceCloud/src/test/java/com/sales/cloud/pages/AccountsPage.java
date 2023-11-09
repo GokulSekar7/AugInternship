@@ -27,7 +27,7 @@ public class AccountsPage extends ProjectSpecificMethods {
 		return new EditAccountPage();
 	}
 	
-	public DeleteAccountPage clickDelete() {
+	public DeleteAccountPage clickDeleteAccount() {
 		clickUsingJs(locateElement(Locators.XPATH, "//a[@title='Delete']"));
 		return new DeleteAccountPage();
 	}

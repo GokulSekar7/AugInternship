@@ -1,5 +1,7 @@
 package com.sales.cloud.pages;
 
-public class CreateAccountsPage {
+import com.framework.testng.api.base.ProjectSpecificMethods;
+
+public class CreateAccountsPage extends ProjectSpecificMethods {
 
 }

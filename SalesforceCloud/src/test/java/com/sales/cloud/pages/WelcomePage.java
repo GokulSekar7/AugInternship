@@ -11,7 +11,7 @@ public class WelcomePage extends ProjectSpecificMethods{
 		return this;
 	}
 	
-public AppLauncherWindowPage clickViewAll() {
+public AppLauncherWindowPage clickViewAllButton() {
 		
 		click(locateElement(Locators.XPATH, "//button[text()='View All']"));
 		return new AppLauncherWindowPage();

@@ -26,7 +26,7 @@ public class CasesPage extends ProjectSpecificMethods{
 		return new EditCasePage();
 	}
 	
-	public DeleteCasePage clickDelete() {
+	public DeleteCasePage clickDeleteCase() {
 		clickUsingJs(locateElement(Locators.XPATH, "//a[@title='Delete']"));
 		return new DeleteCasePage();
 	}
