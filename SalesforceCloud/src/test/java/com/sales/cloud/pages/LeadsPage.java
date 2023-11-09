@@ -38,5 +38,3 @@ public class LeadsPage extends ProjectSpecificMethods {
 	return new DeleteLeadPage();
 	}
 }
-
->>>>>>> refs/remotes/origin/master
