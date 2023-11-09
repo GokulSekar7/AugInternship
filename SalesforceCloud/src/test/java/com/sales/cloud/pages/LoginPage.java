@@ -24,6 +24,5 @@ public class LoginPage extends ProjectSpecificMethods {
 		click(locateElement(Locators.ID, "Login"));
 		return new WelcomePage();
 	}
->>>>>>> refs/remotes/origin/master
-	
+
 }
