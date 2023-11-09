@@ -18,4 +18,7 @@ public class LoginPage extends ProjectSpecificMethods {
 		return new WelcomePage();
 	}
 	
-}
+		
+	}
+	
+
