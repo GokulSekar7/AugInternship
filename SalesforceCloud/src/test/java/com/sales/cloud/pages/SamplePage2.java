@@ -1,5 +1,5 @@
 package com.sales.cloud.pages;
 
-public class SamplePage1 {
+public class SamplePage2 {
 
 }
