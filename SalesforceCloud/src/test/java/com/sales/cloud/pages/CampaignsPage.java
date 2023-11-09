@@ -5,7 +5,7 @@ import com.framework.testng.api.base.ProjectSpecificMethods;
 
 public class CampaignsPage extends ProjectSpecificMethods{
 	
-	public CreateCampaignsPage clickAccountNew() {
+	public CreateCampaignsPage clickCampaignsNew() {
 		clickUsingJs(locateElement(Locators.XPATH, "//div[@title='New']"));
 		return new CreateCampaignsPage();
 	}

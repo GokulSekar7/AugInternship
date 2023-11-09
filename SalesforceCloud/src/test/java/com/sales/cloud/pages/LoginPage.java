@@ -1,15 +1,10 @@
 package com.sales.cloud.pages;
 
-<<<<<<< HEAD
+
 import com.framework.testng.api.base.ProjectSpecificMethods;
-
-public class LoginPage extends ProjectSpecificMethods {
-
-	
-=======
 
 import com.framework.selenium.api.design.Locators;
-import com.framework.testng.api.base.ProjectSpecificMethods;
+
 
 public class LoginPage extends ProjectSpecificMethods {
 	public LoginPage enterUsername(String uname) {
@@ -24,6 +19,6 @@ public class LoginPage extends ProjectSpecificMethods {
 		click(locateElement(Locators.ID, "Login"));
 		return new WelcomePage();
 	}
->>>>>>> refs/remotes/origin/master
+
 	
 }

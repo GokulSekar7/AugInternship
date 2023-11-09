@@ -1,10 +1,6 @@
 package com.sales.cloud.pages;
 
-<<<<<<< HEAD
-public class DashboardPage {
 
-}
-=======
 import org.openqa.selenium.WebElement;
 
 import com.framework.selenium.api.design.Locators;
@@ -28,4 +24,4 @@ public DashboardPage clickonTheDropdown(){
 	return this;
 }
 
->>>>>>> refs/remotes/origin/master
+}

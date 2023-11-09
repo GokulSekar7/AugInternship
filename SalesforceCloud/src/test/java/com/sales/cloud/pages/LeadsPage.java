@@ -1,10 +1,6 @@
 package com.sales.cloud.pages;
 
-<<<<<<< HEAD
-public class LeadsPage {
 
-}
-=======
 import org.openqa.selenium.WebElement;
 
 import com.framework.selenium.api.design.Locators;
@@ -39,4 +35,4 @@ public class LeadsPage extends ProjectSpecificMethods {
 	}
 }
 
->>>>>>> refs/remotes/origin/master
+
