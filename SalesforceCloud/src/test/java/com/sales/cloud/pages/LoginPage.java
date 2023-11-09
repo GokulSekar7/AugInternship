@@ -1,5 +1,6 @@
 package com.sales.cloud.pages;
 
+<<<<<<< HEAD
 import com.framework.selenium.api.design.Locators;
 import com.framework.testng.api.base.ProjectSpecificMethods;
 
@@ -16,5 +17,12 @@ public class LoginPage extends ProjectSpecificMethods {
 		click(locateElement(Locators.ID, "Login"));
 		return new WelcomePage();
 	}
+=======
+import com.framework.testng.api.base.ProjectSpecificMethods;
+>>>>>>> branch 'master' of https://github.com/GokulSekar7/AugInternship
 
+public class LoginPage extends ProjectSpecificMethods {
+
+	
+	
 }
