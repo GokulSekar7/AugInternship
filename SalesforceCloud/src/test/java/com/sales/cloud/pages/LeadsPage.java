@@ -34,5 +34,8 @@ public class LeadsPage extends ProjectSpecificMethods {
 	return new DeleteLeadPage();
 	}
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/GokulSekar7/AugInternship

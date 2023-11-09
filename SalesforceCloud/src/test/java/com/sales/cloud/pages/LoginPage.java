@@ -20,5 +20,8 @@ public class LoginPage extends ProjectSpecificMethods {
 		return new WelcomePage();
 	}
 
+<<<<<<< HEAD
 	
+=======
+>>>>>>> branch 'master' of https://github.com/GokulSekar7/AugInternship
 }
