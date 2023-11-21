@@ -1,5 +1,9 @@
 package com.sales.cloud.pages;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/GokulSekar7/AugInternship
 import org.openqa.selenium.WebElement;
 
 import com.framework.selenium.api.design.Locators;

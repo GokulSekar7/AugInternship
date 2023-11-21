@@ -1,8 +1,13 @@
 package com.sales.cloud.pages;
 
 
-import com.framework.selenium.api.design.Locators;
+<<<<<<< HEAD
+=======
 import com.framework.testng.api.base.ProjectSpecificMethods;
+
+>>>>>>> branch 'master' of https://github.com/GokulSekar7/AugInternship
+import com.framework.selenium.api.design.Locators;
+
 
 public class LoginPage extends ProjectSpecificMethods {
 	public LoginPage enterUsername(String uname) {
@@ -18,4 +23,8 @@ public class LoginPage extends ProjectSpecificMethods {
 		return new WelcomePage();
 	}
 
+<<<<<<< HEAD
+	
+=======
+>>>>>>> branch 'master' of https://github.com/GokulSekar7/AugInternship
 }
