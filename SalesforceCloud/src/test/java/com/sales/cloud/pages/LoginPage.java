@@ -1,12 +1,5 @@
 package com.sales.cloud.pages;
 
-<<<<<<< HEAD
-import com.framework.testng.api.base.ProjectSpecificMethods;
-
-public class LoginPage extends ProjectSpecificMethods {
-
-	
-=======
 
 import com.framework.selenium.api.design.Locators;
 import com.framework.testng.api.base.ProjectSpecificMethods;
